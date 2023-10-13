@@ -1,25 +1,15 @@
+import 'react-native-gesture-handler';
+
 import React from 'react';
-import {StyleSheet, Text, View} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
+import {StackNavigator} from './src/navigator/StackNavigator';
 
 const App = () => {
   return (
     <NavigationContainer>
-      <View style={styles.backgroundStyle}>
-        <Text style={styles.text}>Hello World!a</Text>
-      </View>
+      <StackNavigator />
     </NavigationContainer>
   );
 };
-
-const styles = StyleSheet.create({
-  backgroundStyle: {
-    flex: 1,
-    backgroundColor: 'white',
-  },
-  text: {
-    color: 'black',
-  },
-});
 
 export default App;
