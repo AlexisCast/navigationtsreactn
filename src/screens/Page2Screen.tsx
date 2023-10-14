@@ -17,6 +17,10 @@ export const Page2Screen = () => {
         title="Go to Page 3"
         onPress={() => navigator.navigate('Page3Screen' as never)}
       />
+      <Button
+        title="Go to Person Screen"
+        onPress={() => navigator.navigate('PersonScreen' as never)}
+      />
     </View>
   );
 };
