@@ -25,7 +25,9 @@ export const Page1Screen = ({navigation}: Props) => {
         onPress={() => navigation.navigate('Page2Screen')}
       />
 
-      <Text style={styles.text}>Navegar con argumentos</Text>
+      <Text style={{...styles.text, marginVertical: 20, fontSize: 20}}>
+        Navigate with arguments
+      </Text>
       <View style={styles.buttonContainer}>
         <TouchableOpacity
           style={{...styles.buttonBig, backgroundColor: '#5856d6'}}
