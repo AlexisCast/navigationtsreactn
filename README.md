@@ -46,7 +46,7 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 ### Stack Navigation
-[https://github.com/AlexisCast/navigationtsreactn/tree/feat/2_React_Navigation_Drawer](https://github.com/AlexisCast/navigationtsreactn/tree/feat/1_React_Navigation_Stack)
+https://github.com/AlexisCast/navigationtsreactn/tree/feat/1_React_Navigation_Stack
 ![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/3c75dfa6-2af2-492e-9ecd-e4d9598b43b2)
 ![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/1e6021e9-c9c5-4eee-abac-a382cddbf681)
 ![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/c482d986-a9c8-4c55-ae44-da0e34cf2c98)
