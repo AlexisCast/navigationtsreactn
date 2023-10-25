@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Navigation React Native App
 
 # Getting Started
 
@@ -45,35 +45,18 @@ yarn ios
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+### Stack Navigation
+[https://github.com/AlexisCast/navigationtsreactn/tree/feat/2_React_Navigation_Drawer](https://github.com/AlexisCast/navigationtsreactn/tree/feat/1_React_Navigation_Stack)
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/3c75dfa6-2af2-492e-9ecd-e4d9598b43b2)
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/1e6021e9-c9c5-4eee-abac-a382cddbf681)
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/c482d986-a9c8-4c55-ae44-da0e34cf2c98)
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/6ac367a5-ad7c-4cab-ad7a-4dab8e366831)
 
-## Step 3: Modifying your App
 
-Now that you have successfully run the app, let's modify it.
+### Drawer Personalized
+https://github.com/AlexisCast/navigationtsreactn/tree/feat/2_React_Navigation_Drawer
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/8e8a8e0f-8722-4c31-a9b2-c41aca4f1fe2)
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/75e48c16-8e70-4778-bccc-a3b9d4641439)
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/a5d3c815-caa3-4f0e-9928-09624fc546ac)
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
