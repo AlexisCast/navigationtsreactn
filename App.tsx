@@ -5,6 +5,7 @@ import {NavigationContainer} from '@react-navigation/native';
 // import {StackNavigator} from './src/navigator/StackNavigator';
 // import {LateralBasicMenu} from './src/navigator/LateralBasicMenu';
 import {LateralMenu} from './src/navigator/LateralMenu';
+// import {Tabs} from './src/navigator/Tabs';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       {/* <StackNavigator /> */}
       {/* <LateralBasicMenu /> */}
       <LateralMenu />
+      {/* <Tabs /> */}
     </NavigationContainer>
   );
 };
