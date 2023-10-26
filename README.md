@@ -65,3 +65,7 @@ https://github.com/AlexisCast/navigationtsreactn/tree/feat/3_React_Navigation_Bo
 ![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/1bf7c1f0-1ac7-4a0f-a154-3cccec7556bc)
 
 
+### Top Tabs
+https://github.com/AlexisCast/navigationtsreactn/tree/feat/4_React_Navigation_Top_Tabs
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/e0cd74f8-aa68-452e-bb26-9ab5a2548550)
+
