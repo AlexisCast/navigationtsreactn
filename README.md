@@ -76,3 +76,6 @@ setup:
   - https://www.youtube.com/watch?v=gkjYTapyEO8&ab_channel=Arslan
 
 ![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
