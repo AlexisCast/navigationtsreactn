@@ -1,4 +1,6 @@
+/* eslint-disable react/no-unstable-nested-components */
 import React from 'react';
+import Icon from 'react-native-vector-icons/Ionicons';
 
 import {createMaterialTopTabNavigator} from '@react-navigation/material-top-tabs';
 import {ChatScreen} from '../screens/ChatScreen';
@@ -30,18 +32,18 @@ export const TopTabNavigator = () => {
           let iconName: string = '';
           switch (route.name) {
             case 'Chat':
-              iconName = 'Ch';
+              iconName = 'chatbox-ellipses-outline';
               break;
 
             case 'Contacts':
-              iconName = 'Co';
+              iconName = 'people-outline';
               break;
 
             case 'Albums':
-              iconName = 'Al';
+              iconName = 'albums-outline';
               break;
           }
-          return <Text style={{color: Colors.primary}}>{iconName}</Text>;
+          return <Icon name={iconName} size={22} color={color} />;
         },
       })}>
       <Tab.Screen name="Chat" component={ChatScreen} />

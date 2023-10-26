@@ -1,7 +1,9 @@
+/* eslint-disable react/no-unstable-nested-components */
 import React, {useEffect} from 'react';
+import Icon from 'react-native-vector-icons/Ionicons';
 import {Button, Text, View} from 'react-native';
 // import {StackScreenProps} from '@react-navigation/stack';
-import {styles} from '../theme/appThemes';
+import {Colors, styles} from '../theme/appThemes';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 import {DrawerScreenProps} from '@react-navigation/drawer';
 
@@ -12,7 +14,11 @@ export const Page1Screen = ({navigation}: Props) => {
   useEffect(() => {
     navigation.setOptions({
       headerLeft: () => (
-        <Button title="Menu" onPress={() => navigation.toggleDrawer()} />
+        <TouchableOpacity
+          style={{marginLeft: 10}}
+          onPress={() => navigation.toggleDrawer()}>
+          <Icon name="menu-outline" size={35} color={Colors.primary} />
+        </TouchableOpacity>
       ),
     });
   }, []);
@@ -37,6 +43,7 @@ export const Page1Screen = ({navigation}: Props) => {
               name: 'Pedro',
             })
           }>
+          <Icon name="body-outline" size={35} color="white" />
           <Text style={styles.buttonBigText}>Pedro</Text>
         </TouchableOpacity>
 
@@ -48,6 +55,7 @@ export const Page1Screen = ({navigation}: Props) => {
               name: 'Maria',
             })
           }>
+          <Icon name="women-outline" size={35} color="white" />
           <Text style={styles.buttonBigText}>Maria</Text>
         </TouchableOpacity>
       </View>

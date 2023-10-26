@@ -69,3 +69,13 @@ https://github.com/AlexisCast/navigationtsreactn/tree/feat/3_React_Navigation_Bo
 https://github.com/AlexisCast/navigationtsreactn/tree/feat/4_React_Navigation_Top_Tabs
 ![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/e0cd74f8-aa68-452e-bb26-9ab5a2548550)
 
+### with Icons
+https://github.com/AlexisCast/navigationtsreactn/tree/feat/5_Icons
+setup:
+  - https://www.udemy.com/course/react-native-fh/learn/lecture/25365534#questions/20617800
+  - https://www.youtube.com/watch?v=gkjYTapyEO8&ab_channel=Arslan
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
