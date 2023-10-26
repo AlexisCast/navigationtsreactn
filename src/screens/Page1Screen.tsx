@@ -55,7 +55,7 @@ export const Page1Screen = ({navigation}: Props) => {
               name: 'Maria',
             })
           }>
-          <Icon name="women-outline" size={35} color="white" />
+          <Icon name="woman-outline" size={35} color="white" />
           <Text style={styles.buttonBigText}>Maria</Text>
         </TouchableOpacity>
       </View>
