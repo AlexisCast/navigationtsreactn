@@ -60,3 +60,8 @@ https://github.com/AlexisCast/navigationtsreactn/tree/feat/2_React_Navigation_Dr
 ![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/a5d3c815-caa3-4f0e-9928-09624fc546ac)
 
 
+### Bottom Tabs
+https://github.com/AlexisCast/navigationtsreactn/tree/feat/3_React_Navigation_Bottom_Tabs
+![image](https://github.com/AlexisCast/navigationtsreactn/assets/67242986/1bf7c1f0-1ac7-4a0f-a154-3cccec7556bc)
+
+
