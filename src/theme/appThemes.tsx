@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
   },
   buttonBig: {
     width: 100,
-    height: 50,
+    height: 100,
     backgroundColor: 'red',
     borderRadius: 20,
     alignItems: 'center',
